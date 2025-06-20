@@ -1,0 +1,2 @@
+# RandomForestClassifier
+RandomForestClassifier against SMOTE
